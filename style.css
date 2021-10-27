@@ -1,0 +1,56 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.box {
+  position: absolute;
+  top: 10%;
+  right: 25%;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+.entry {
+  margin: 0 auto;
+  display: grid;
+  width: 50%;
+  align-items: center;
+  text-align: center;
+  padding: 10px;
+}
+.tasks {
+  font-family: Helvetica;
+  border: 2px solid orange;
+  margin-top: 50px;
+  align-items: center;
+  text-align: center;
+  font-size: 36px;
+  cursor: pointer;
+}
+.tasks-finish {
+  font-family: Helvetica;
+  border: 2px solid orange;
+  margin-top: 50px;
+  align-items: center;
+  text-align: center;
+  font-size: 36px;
+  cursor: pointer;
+}
+h2 {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Helvetica;
+}
+#addbtn {
+  font-size: 2rem;
+}
+#textField {
+  font-size: 2rem;
+}
+label {
+  font-size: 2rem;
+}
+i {
+  font-size: 2rem;
+}

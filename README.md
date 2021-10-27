@@ -1,2 +1,2 @@
 # JS_Projects
-JavaScript projects hereee
+To do list project
